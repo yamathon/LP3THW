@@ -1,0 +1,4 @@
+The = "single equal" assigns the value to the variable
+ex: x=100
+
+The == "double equal" tests whether two things have the same value.

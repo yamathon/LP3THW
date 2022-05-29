@@ -1,0 +1,5 @@
+with the f"" you can insert variables inside strings.
+
+the {} is a placeholder for value of variables.
+
+

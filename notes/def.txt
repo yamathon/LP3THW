@@ -1,0 +1,6 @@
+functions (def)'s contents are isolated from the rest of the python 
+program.
+
+The variables within the def are temporary so you have to return
+them and assign new variables for them for the rest of the program
+to use.

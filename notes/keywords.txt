@@ -1,0 +1,78 @@
+KEYWORD	    |  DESCRIPTION		      |  EXAMPLE
+--------------------------------------------------------------------------
+and		Logical and.			True and False == False
+
+as		Part of the with-as statement 	with X as Y: pass
+
+assert		Assert (ensure) that 		assert False, "Error!"
+		something is true.
+
+break		Stop this loop right now.	while True: break
+
+class		Define a class.			class Person(object)
+
+continue	Don't process more of the	while True: continue
+		loop, do it again.
+
+def		Define a function.		def X(): pass
+
+del		Delete from dictionary.		del X[Y]
+
+elif		Else if condition.		if: X; elif: Y; else: J
+
+else		Else condition.			if: X; elif: Y; else: J
+
+except		If an exception happens, do	except ValueError, e: print(e)
+		this.
+
+exec		Run as string as Python.	exec 'print("hello")'
+
+finally		Exceptions or not, finally	finally: pass
+		do this no matter what.
+
+for		Loop over a collection of	for X in Y: pass
+		things.
+
+from		Import specific parts of a	from x import Y
+		module.
+
+global		Declare that you want a		global X
+		global variable.
+
+if		If condition.			if: X; elif: Y; else: J
+
+import		Import a module into this	import os
+		one to use.
+
+in		Part of for-loops. Also a	for X in Y: pass also 1 in [1]
+		test of Y in Y.			== True
+
+is		Like == to test equality.	1 is 1 == True
+
+lambda		Create a short anonymous	s = lambda y: y ** y; s(3)
+		function.
+
+not		Logical not.			not True == False
+
+or		Logical or.			True or False == True
+
+pass		This block is empty.		def empty(): pass
+
+print		Print this string.		print('this string')
+
+raise		Raise an exception when		raise ValueError("No")
+		things go wrong.
+
+return		Exit the function with a	def X(): return Y
+		return value.
+
+try		Try this block, and if		try: pass
+		exception, go to except.
+
+while		While loop.			while X: pass
+
+with		With an expression as a		with X as Y: pass
+		variable do.
+
+yield		Pause here and return to	def X(): yield Y; X().next()
+		caller.

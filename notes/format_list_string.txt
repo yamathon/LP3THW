@@ -1,0 +1,15 @@
+Sometimes it's a pain to type EVERY formatted thing when there's
+too many of them.
+
+print(f"I have {a}, {b}, {c}, {d}, ..........................")
+
+You can easily apply a list to a format string like this:
+
+def function(variable):
+    a = 1
+    b = 2
+    c = 3
+
+print("string string {} {}, string, {}.".format(function))
+
+use .format(function variable) at the end.
