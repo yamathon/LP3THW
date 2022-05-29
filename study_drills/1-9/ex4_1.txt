@@ -1,0 +1,2 @@
+What happens if instead of 4.0, 4 is used instead?
+A) On line 14 120 will be printed instead of 120.0.

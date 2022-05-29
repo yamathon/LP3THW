@@ -1,0 +1,5 @@
+No, there isn't four places where a string is put inside a string.
+
+I know because a boolean and a number were the only other two things
+placed inside a string. Thank you for telling this interesting fact
+about yourself, Zed. :)

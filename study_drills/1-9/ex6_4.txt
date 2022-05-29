@@ -1,0 +1,9 @@
+Adding two strings w and e make a longer string because:
+two variables added to each other make a longer output.
+
+if  x=1
+    y=2
+
+x+y=3
+
+3 is a bigger number than 1 or 2.
