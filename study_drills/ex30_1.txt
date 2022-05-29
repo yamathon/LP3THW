@@ -1,0 +1,8 @@
+else is basically executing another thing if the current function's
+conditions do not satisfy.
+
+elif adds on to the else by requiring another set of conditions
+in order for the elif statement to execute if the current function
+comes out as False.
+
+elif = if + else

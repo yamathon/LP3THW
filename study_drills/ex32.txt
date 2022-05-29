@@ -1,0 +1,17 @@
+1. The range function sets a condition for the loop so that it
+will stop running over and over again once it meets the end goal.
+
+2. Yes, if you actually added the values to elements' list and
+not just defining it and leaving it empty.
+
+3. Here are some more operations besides append():
+.extend(iterable)
+.insert(i, x)
+.remove(x)
+.pop([i])
+.clear()
+.index(x[, start[, end]])
+.count(x)
+.sort(*, key=None, reverse=False)
+.reverse()
+.copy()

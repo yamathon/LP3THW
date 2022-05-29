@@ -1,0 +1,25 @@
+weapons = ['ak-47', 'molotov', 'grenade', 'knife', 'glock-19', 'm4a1', 'katana', 'halberd', 'broadsword', 'BFG-5000', 'pulse rifle']
+
+1. The weapon at 1.
+A: molotov
+
+2. The third (3rd) weapon.
+A: grenade
+
+3. The first (1st) animal.
+A: ak-47
+
+4. The weapon at 3.
+A: knife
+
+5. The fifth (5th) weapon.
+A: glock-19
+
+6. The weapon at 2.
+A: grenade
+
+7. The sixth (6th) animal.
+A: m4a1
+
+8. The weapon at 4.
+A: glock-19 

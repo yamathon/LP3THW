@@ -1,0 +1,8 @@
+1. The if executes the code underneath it given conditions.
+2. Python needs code to be indented in order to not confuse
+them with other parts of the whole program.
+3. The code breaks.
+4. Yes you can. See ex28_4.py
+5. Then there is a different variation of statements that are
+printed due to different combinations of if statements being
+executed.
