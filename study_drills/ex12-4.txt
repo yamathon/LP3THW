@@ -1,0 +1,48 @@
+open(), file(), os(), sys() notes
+
+
+-> open()
+this has several modes you can choose to open the specified file with.
+
+when you type open(argument), it by default
+resorts to the 'rt' mode even though you didn't specify any mode.
+
+'rt' is open for reading
+
+The modes are all about writing to the file.
+
+'r', "read"
+'w', "write"
+'x', "create new file"
+'a', "append"
+
+File types:
+'b', "binary mode"
+'t', "text mode"
+'+', "open, read, write disk file"
+
+Notable traits:
+- Python looks at files as either text or binary
+- Python opens text as strings depending on the encoding to
+decode/encode files
+- the 'w' truncates file first, then opens it for editing.
+
+
+
+-> file()
+The pydoc command returns nothing for some weird reason.
+
+-> os()
+this exports a lot of functions from "posix". 
+
+Programs that import and use this are better at running in
+different platforms.
+
+Changes the way how files are being handled in byte streams?
+paths? this documentation is confusing.
+
+-> sys()
+imports access to objects maintained by the Python interpreter
+and functions that interact with the interpreter.
+
+way to change the input of files?

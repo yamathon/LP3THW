@@ -1,0 +1,15 @@
+Error:
+
+ValueError: not enough values to unpack (expected 4, got 3)
+
+
+Four variables were assigned to argv, so therefore it 
+expects four arguments to be entered to be assigned to
+those variables.
+
+If you don't input the correct number of arguments, argv
+cannot proceed due to the missing variable not having any
+value, so argv itself doesn't have any value to work with.
+
+All the four variables make up argv, they are just
+pieces broken up into four.

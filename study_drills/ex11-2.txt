@@ -1,0 +1,6 @@
+Enter ip address to scan
+
+Enter url to scrape site data
+
+enter the mode or choice that the program
+will present to you as options.

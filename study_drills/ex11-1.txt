@@ -1,0 +1,7 @@
+Takes a string from user-input but strips the 
+trailing newline.
+
+The string is then assigned to the variable
+(If you initialized one) and is ready to be
+used if called later in the program by
+its variable name.

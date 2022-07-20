@@ -1,0 +1,5 @@
+Pydoc automatically generates documentation from Python modules
+
+
+The documentation can be presented in the terminal if called by
+its command, 'pydoc' or 'pydoc3'

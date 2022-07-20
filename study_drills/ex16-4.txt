@@ -1,0 +1,14 @@
+Why was 'w' passed as an extra parameter to _open_?
+
+Hint: _open_ tries to be safe by making you 
+explicitly say you want to write a file.
+
+
+Because by default .open() opens the file in the
+'rt' mode. It is basically reading text, not editing.
+
+Because if you want to write to the file, Python will
+actually truncate it before allowing user input.
+
+If the file is important, then it is therefore safer
+to make open() by default open to read only.

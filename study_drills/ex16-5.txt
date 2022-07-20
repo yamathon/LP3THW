@@ -1,0 +1,6 @@
+Do you really need the target.truncate()?
+
+
+No. The 'w' mode automatically truncates the
+file before the user can do anything else
+to interact with it.
