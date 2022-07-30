@@ -5,7 +5,8 @@ https://learncodethehardway.org/python/
 
 Ignore the exercises, I typed them exactly out of the book.
 
-You can see what I did for the study drills and the notes too.
+If you're interested, you can read what I did for the
+study drills and notes.
 
 
 Todo:
