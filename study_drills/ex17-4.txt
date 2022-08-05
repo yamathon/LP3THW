@@ -1,7 +1,12 @@
 Why was out_file.close() in the code?
 
 I guess because if it's not closed, then it is still
-open for editing even though the python program 
+open for editing even though the python program itself
 finished executing and closes. It is probably the 
 best practice to close files once you're done 
 editing them.
+
+It's common sense. You open a file, edit it, and finally
+close it. 
+
+Best practices?
