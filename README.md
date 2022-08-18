@@ -10,5 +10,6 @@ study drills and notes.
 
 
 Todo:
+* Writeup notes
 * Missing study drills 
 * Resume from ex38
