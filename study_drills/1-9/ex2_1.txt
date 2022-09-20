@@ -1,0 +1,7 @@
+I looked up on google and it told me that the '#'
+sign in python means that it's a "comment", that comments
+are used to make certain lines not run in order to have
+commentary on the code itself.
+
+I was partially correct, comments also disable lines of
+code.
