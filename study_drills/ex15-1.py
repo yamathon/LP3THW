@@ -1,7 +1,7 @@
 # imports the sys package from the argv module
 from sys import argv
 
-# breaks argv into two variables for two parameters
+# breaks argv into two variables for two arguments
 script, filename = argv
 
 # the file has to be opened first, so create new variable
