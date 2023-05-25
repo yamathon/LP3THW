@@ -4,6 +4,7 @@ want to get it here's the link:
 https://learncodethehardway.org/python/
 
 Todo:
-* Writeup notes
+* Writeup notes 
 * Missing study drills 
 * Resume from ex38
+* ChatGPT-supplemented learning
